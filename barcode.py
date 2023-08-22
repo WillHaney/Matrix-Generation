@@ -1,11 +1,3 @@
-# File: barcode.py
-# Author: Will Haney
-# Date: 07/06/2023
-# Section: 700
-# E-mail: willhaney@tamu.edu
-# Description:
-# e.g., This program asks for the user to enter the number of rows and columns they desire and output a matrix
-
 import sys
 
 matrix_A = input(f"Matrix A number of rows and columns: ").split()
